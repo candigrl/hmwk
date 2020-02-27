@@ -1,0 +1,50 @@
+body{
+    background-color: aquamarine;
+}
+
+ul{
+    font-family: w3-myfont 
+         "Comic Sans MS", cursive, sans-serif;
+      }  
+  
+}
+
+li{
+    margin-bottom: 55px;
+}
+
+#example{
+    color:black;
+
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 420px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 26px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+
+
+
+
+
+
+

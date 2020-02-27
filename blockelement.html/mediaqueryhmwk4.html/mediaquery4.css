@@ -1,0 +1,31 @@
+/* Set the backgorund color of body to tan */
+body {
+    background-color: tan;
+
+    <div style="width:50%;">
+     Variable content.
+      <div id="a"></div>
+    Varuable Cintect
+    </div>
+
+/* On screens that are 992px or less, set the background color to blue */
+    
+@media screen and (max-width: 992px) {
+    body {
+        background-color: yellow;
+      }        
+    }
+
+    /* On screens that are 600px or less, set background color to olive */
+     add
+    media screen and max-width 600()) { 
+        body {
+            background-color: rgb(198, 11, 245);
+        }
+        
+
+
+
+
+
+}
